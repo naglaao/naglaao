@@ -20,19 +20,9 @@
 
 ![GitHub streak stats]
 
-<!-- Social button 1 -->
-<!-- Light Mode -->
-<div>
-<a href="https://discord.gg/HXmCeSH8jr#gh-light-mode-only">
-<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
-</a>
-<!-- Dark Mode -->
-<a href="https://discord.gg/HXmCeSH8jr#gh-dark-mode-only">
-<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
-</a>
-&nbsp;
-<!-- Social button 2 -->
-<!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-light-mode-only">
-<img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
+<p align='center'>
+  <a href=" "><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/naglaa-mohsen-82608a24a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
