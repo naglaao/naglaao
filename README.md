@@ -1,4 +1,4 @@
-<h1  text-align=" center" font-style="italic"> Hi there, Iam Naglaa 👋</h1>
+<h6> Hi there, Iam Naglaa 👋</h6>
 
 <!--
 **naglaao/naglaao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
