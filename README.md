@@ -1,4 +1,4 @@
- <h1 align='center' font-family='Fantasy' > Hi there 👋, I'm Naglaa  👩‍💻  </h1>
+ <h1 align='center' font-family='Montserrat' > Hi there 👋, I'm Naglaa  👩‍💻  </h1>
 
 <p align='center' font-family='Fantasy'>
   I live in Iraq
@@ -8,7 +8,7 @@
 
 
 
-### I'm a front-end web developer with 2 years of experience designing and building responsive web apps. Good at CSS (React-Bootstrap, Material UI, SCSS ), JavaScript , React.
+### I'm a front-end web developer with 2 years of experience designing and building responsive web apps. Good at CSS (tailwind-elements, tailwind, SCSS ), JavaScript , React.
 
 <h4 >  Skills and Development...</h4>
 
