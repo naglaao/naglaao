@@ -1,4 +1,4 @@
- <h1 align='center' font-color='#a2d2ff'> Hi there 👋, I'm Naglaa  👩‍💻 </h1>
+ <h1 align='center' color='#a2d2ff'> Hi there 👋, I'm Naglaa  👩‍💻 </h1>
 
 <p align='center' font-family='Fantasy'>
   I live in Iraq
