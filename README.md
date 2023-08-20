@@ -1,10 +1,5 @@
- <h1 align='center'  > Hi there 👋, I'm Naglaa   </h1>
-<h1 align='center' 
-          size="6" 
-          face="verdana"
-          color="red">
-         👩‍💻 juyu8
-    </h1>
+ <h1 align='center'  > Hi there 👋, I'm Naglaa  👩‍💻  </h1>
+
 <p align='center' font-family='Fantasy'>
   I live in Iraq
 </p>
